@@ -1,5 +1,5 @@
 
-Deep Learning Anomaly Detection System
+**Deep Learning Anomaly Detection System**
 
 This project builds an AI watchdog that monitors machine data and automatically sounds the alarm if something breaks or behaves unusually.
 
